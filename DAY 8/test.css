@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#nav{
+    width: 100%;
+    height: 80px;
+    background-color: black;
+    display: flex;
+}
+
+#A1{
+    height: 80px;
+    width: 200px;
+    display: inline;
+    padding-top: 30px;
+    margin-left: 30px;
+    
+}
+#A2{
+    height: 60px;
+    width: 60px;
+    display: inline-block;
+    padding-top: 20px;
+    padding-left: 15px;
+    margin-top: 5px;
+    margin-left:1200px;
+    background-color: rgb(135, 135, 135);
+    border-radius: 35%;
+}
+#B1{
+    height: auto;
+    width:auto;
+    padding-left: 600px;
+    padding-top: 100px;
+   
+}
+
+#B2{
+   
+    background-color: black;
+    border-radius: 10%;
+    height: 300px;
+    width: 300px;
+}
+
+
+#B3{
+   background: linear-gradient(to right,greenyellow,green,rgb(106, 149, 106));
+    border-radius: 10%;
+    transform: skew(5deg);
+    height: 300px;
+    width: 300px;
+    padding-left: 30px;
+    padding-top: 40px;
+}
+
+#B4{
+    height: 300px;
+    width: 300px;
+    background-color: transparent;
+    position: fixed;
+
+}
+
+#button{
+    height: 30px;
+    width: 125px;
+    
+    padding-left: 15px;
+    padding-top: 3px;
+    margin-left: -5px;
+    background-color: aliceblue;
+    color: black;
+
+
+}
+#z{
+    margin-left: 60px;
+    margin-top: 30px;
+    justify-content: space-evenly;
+}
+
+
+
+h4{
+    color: white;
+}
+ table{
+     color: white;
+ }
